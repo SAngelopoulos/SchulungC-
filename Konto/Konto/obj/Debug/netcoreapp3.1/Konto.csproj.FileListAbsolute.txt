@@ -1,0 +1,13 @@
+C:\Users\Andre\source\repos\Konto\Konto\bin\Debug\netcoreapp3.1\Konto.exe
+C:\Users\Andre\source\repos\Konto\Konto\bin\Debug\netcoreapp3.1\Konto.deps.json
+C:\Users\Andre\source\repos\Konto\Konto\bin\Debug\netcoreapp3.1\Konto.runtimeconfig.json
+C:\Users\Andre\source\repos\Konto\Konto\bin\Debug\netcoreapp3.1\Konto.runtimeconfig.dev.json
+C:\Users\Andre\source\repos\Konto\Konto\bin\Debug\netcoreapp3.1\Konto.dll
+C:\Users\Andre\source\repos\Konto\Konto\bin\Debug\netcoreapp3.1\Konto.pdb
+C:\Users\Andre\source\repos\Konto\Konto\obj\Debug\netcoreapp3.1\Konto.csprojAssemblyReference.cache
+C:\Users\Andre\source\repos\Konto\Konto\obj\Debug\netcoreapp3.1\Konto.AssemblyInfoInputs.cache
+C:\Users\Andre\source\repos\Konto\Konto\obj\Debug\netcoreapp3.1\Konto.AssemblyInfo.cs
+C:\Users\Andre\source\repos\Konto\Konto\obj\Debug\netcoreapp3.1\Konto.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\Konto\Konto\obj\Debug\netcoreapp3.1\Konto.dll
+C:\Users\Andre\source\repos\Konto\Konto\obj\Debug\netcoreapp3.1\Konto.pdb
+C:\Users\Andre\source\repos\Konto\Konto\obj\Debug\netcoreapp3.1\Konto.genruntimeconfig.cache
